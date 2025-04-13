@@ -1,5 +1,9 @@
 # Lottery DApp with a React frontend
 
+DApp preview can be found here: lottery.delishad.com
+
+DApp is deployed on the Sepolia testnet. Contract address is 0x5d9ab17e0e586cA2adAafAeaa3fE4b02c218d2c0
+
 This repository contains a simple lottery DApp built with React and Solidity. The DApp allows users to enter a lottery by sending Ether, and the contract randomly selects a winner from the participants.
 
 This DApp makes use of Chainlink VRF and Automation. The contract is deployed on the Sepolia testnet, and the frontend is built using React.
