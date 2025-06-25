@@ -1,6 +1,6 @@
 # Lottery DApp with a React frontend
 
-DApp preview can be found here: lottery.delishad.com
+DApp preview can be found here: [lottery.delishad.com](lottery.delishad.com) (NO LONGER MAINTAINED)
 
 DApp is deployed on the Sepolia testnet. Contract address is 0x5d9ab17e0e586cA2adAafAeaa3fE4b02c218d2c0
 
